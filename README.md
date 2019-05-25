@@ -1,7 +1,7 @@
 <br />
 <p >
   <h3>songs</h3>
-   Simple React and Redux app built following the Modern React with Redux [2019 Update] by Stephen Grider.
+   Simple React and Redux app built following the Modern React with Redux [2019 Update] course by Stephen Grider.
   <p >
     <br />
     <a href="https://github.com/Anthony-Brannan/songs/"><strong>Explore the docs »</strong></a>
